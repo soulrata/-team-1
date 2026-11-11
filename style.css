@@ -18,13 +18,12 @@ body {
 
 .card {
   /* งาน 2: ตกแต่งการ์ด เช่น border, border-radius, padding, background-color */
-  border: 1px solid rgb(52, 51, 73);
+  border: 1px solid rgb(48, 46, 78);
   padding: 8px;
 }
 
 .card-name {
   /* งาน 3: ตกแต่งชื่อในการ์ด เช่น color, font-size */
-   font-family: sans-serif;
 }
 
 button {
