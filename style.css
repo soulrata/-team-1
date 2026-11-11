@@ -5,8 +5,8 @@ body {
   font-family: sans-serif;
   margin: 24px;
   /* งาน 1: เปลี่ยนสีพื้นหลังและสีตัวอักษรของหน้าเว็บ */
-  background-color: white;
-  color: black;
+  background-color: rgb(201, 231, 245);
+  color: rgb(47, 50, 77);
 }
 
 /* กล่องที่ครอบการ์ดทั้งหมด จัดเรียงเป็นแนวนอน */
@@ -18,7 +18,7 @@ body {
 
 .card {
   /* งาน 2: ตกแต่งการ์ด เช่น border, border-radius, padding, background-color */
-  border: 1px solid gray;
+  border: 1px solid rgb(48, 46, 78);
   padding: 8px;
 }
 
@@ -34,6 +34,6 @@ button {
 /* โหมดมืด: script.js จะเพิ่ม class "dark" ให้ body */
 body.dark {
   /* งานเสริม: กำหนดสีของโหมดมืด */
-  background-color: #222222;
-  color: white;
+  background-color: #2a2333;
+  color: rgb(252, 248, 235);
 }
